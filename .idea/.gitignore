@@ -1,8 +1,31 @@
-# 默认忽略的文件
-/shelf/
-/workspace.xml
-# 基于编辑器的 HTTP 客户端请求
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# IDE本地文件
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+.DS_Store
+
+# Java后端
+sky-take-out/sky-server/target/
+sky-take-out/sky-pojo/target/
+sky-take-out/sky-common/target/
+sky-take-out/*.log
+sky-take-out/*.txt
+sky-take-out/application-dev.yml
+sky-take-out/application-local.yml
+sky-take-out/application-private.yml
+
+# 前端node依赖、编译产物
+project-sky-admin-vue-ts/node_modules/
+project-sky-admin-vue-ts/dist/
+project-sky-admin-vue-ts/.env.local
+project-sky-admin-vue-ts/.env.dev
+project-sky-admin-vue-ts/yarn-error.log
+project-sky-admin-vue-ts/npm-debug.log
+
+# 本地密钥、临时文件
+*.pem
+*.key
+*.crt
+临时文件和控制台/
