@@ -26,7 +26,10 @@
 
 ### AI 智能助手演示
 
-![AI助手功能演示](docs/assets/ai-demo.gif)
+<div align="center">
+<img src="docs/assets/ai-demo.gif" alt="AI智能助手交互演示" />
+<p>AI智能助手自然语言交互演示</p>
+</div>
 
 > 通过自然语言与 AI 助手交互，实现订单查询、营业额分析、数据统计等功能。AI 自动理解用户意图，返回结构化的查询结果与分析报告。
 

@@ -6,194 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29dcff71-30f3-487d-815c-6c9e9fd71d19" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/docs/assets/ai-demo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/constant/AutoFillConstant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/constant/JwtClaimsConstant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/constant/MessageConstant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/constant/PasswordConstant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/constant/StatusConstant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/context/BaseContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/enumeration/OperationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/AccountLockedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/AccountNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/AddressBookBusinessException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/BaseException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/DeletionNotAllowedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/LoginFailedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/OrderBusinessException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/PasswordEditFailedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/PasswordErrorException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/SetmealEnableFailedException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/ShoppingCartBusinessException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/exception/UserNotLoginException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/json/JacksonObjectMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/properties/AliOssProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/properties/JwtProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/properties/WeChatProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/result/PageResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/result/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/utils/AliOssUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/utils/HttpClientUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/utils/JwtUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-common/src/main/java/com/sky/utils/WeChatPayUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/CategoryDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/CategoryPageQueryDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/ChatMessageDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/DataOverViewQueryDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/DishDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/DishPageQueryDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/EmployeeDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/EmployeeLoginDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/EmployeePageQueryDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/GoodsSalesDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/OrdersCancelDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/OrdersConfirmDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/OrdersDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/OrdersPageQueryDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/OrdersPaymentDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/OrdersRejectionDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/OrdersSubmitDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/PasswordEditDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/SetmealDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/SetmealPageQueryDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/ShoppingCartDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/dto/UserLoginDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/AddressBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/ChatSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/Dish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/DishFlavor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/OrderDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/Orders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/Setmeal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/SetmealDish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/BusinessDataVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/ChatHistoryVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/ChatMessageVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/ChatSessionCreateVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/ChatSessionVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/DishItemVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/DishOverViewVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/DishVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/EmployeeLoginVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/OrderOverViewVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/OrderPaymentVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/OrderReportVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/OrderStatisticsVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/OrderSubmitVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/OrderVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/SalesTop10ReportVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/SetmealOverViewVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/SetmealVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/TurnoverReportVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/UserLoginVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-pojo/src/main/java/com/sky/vo/UserReportVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/SkyApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/annotation/AutoFill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/aspect/AutoFillAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/assistant/Assistant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/bean/ChatForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/bean/ChatMessages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/config/AssistantConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/config/EmbeddingStoreConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/config/Knife4jConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/config/OssConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/config/RedisConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/config/WebMvcConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/config/WebSocketConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/AssistantController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/CategoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/CommonController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/DishController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/EmployeeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/ReportController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/SetMealController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/ShopController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/WorkSpaceController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/notify/PayNotifyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/user/AddressBookController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/user/CategoryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/user/DishController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/user/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/user/SetmealController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/user/ShopController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/user/ShoppingCartController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/controller/user/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/handler/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/interceptor/JwtTokenAdminInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/interceptor/JwtTokenUserInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/AddressBookMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/CategoryMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/ChatSessionMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/DishFlavorMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/DishMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/EmployeeMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/OrderDetailMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/OrderMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/SetMealDishMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/SetMealMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/ShoppingCartMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/AddressBookService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/CategoryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/ChatSessionService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/DishService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/EmployeeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/ReportService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/SetMealService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/ShoppingCartService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/WorkspaceService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/AddressBookServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/CategoryServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/ChatSessionServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/DishServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/EmployeeServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/OrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/ReportServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/SetMealServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/ShoppingCartServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/service/impl/WorkspaceServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/store/MongoChatMemoryStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/task/MyTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/task/OrderTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/task/WebSocketTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/tools/AssistantTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/utils/ShopStatusHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/java/com/sky/websocket/WebSocketServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/knowledge/order_management.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/knowledge/platform.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/knowledge/promotions_management.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/knowledge/restaurant_management.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/knowledge/rider_management.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/knowledge/user_management.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/AddressBookMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/CategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/DishFlavorMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/DishMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/EmployeeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/OrderDetailMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/OrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/SetMealDishMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/SetMealMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/ShoppingCartMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/template/SystemMessage.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/sky-server/src/main/resources/template/运营数据报表模板.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sky-take-out-ai-edition-master/sky-take-out/technologies.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,9 +30,6 @@
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="17" />
-  </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/sky-take-out-ai-edition-master/project-sky-admin-vue-ts/package.json" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -307,7 +116,7 @@
       <workItem from="1781427325839" duration="5682000" />
       <workItem from="1781435614931" duration="2164000" />
       <workItem from="1781441912343" duration="12341000" />
-      <workItem from="1781515206586" duration="15809000" />
+      <workItem from="1781515206586" duration="16810000" />
     </task>
     <servers />
   </component>
