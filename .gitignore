@@ -148,7 +148,7 @@ LICENSE
 *.jpg
 *.jpeg
 *.gif
-!docs/assets/
+!docs/assets/*
 
 # Excel / 文本备份
 *.xlsx
